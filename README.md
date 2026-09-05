@@ -7,14 +7,14 @@ Ultima Online™ Game assets and uoAvox as your foundation.
 
 ---
 
-### Some Background...
+### A Small Disclaimer...
 
-The uoAvox game client is based entirely off [ClassicUO](https://github.com/ClassicUO/ClassicUO), but has been rebranded to fit the uoAvox 
+The uoAvox game client is based entirely off [ClassicUO](https://www.classicuo.eu/), but has been rebranded to fit the uoAvox 
 project. This is where [ClassicUO](https://github.com/ClassicUO/ClassicUO) and uoAvox branch off into two separate directions. The reason
 is due to the changes we will be making in this repository, making the uoAvox game client only compatible with uoAvox servers. This change
 is important to us so that we can keep all our releases consistent.
 
-The uoAvox game server is based entirely off [RunUO](https://github.com/runuo/runuo), but has been rebranded to fit the uoAvox project. This
+The uoAvox game server is based entirely off [RunUO](https://www.runuo.com/), but has been rebranded to fit the uoAvox project. This
 is where [RunUO](https://github.com/runuo/runuo) and uoAvox branch off into two seperate directions. The reason is because we wanted to
 focus on making uoAvox more generic; stripping all Ultima Online specific content off the server, which in turn makes the entire repo much
 easier to navigate by users who may be new to this hobby.
