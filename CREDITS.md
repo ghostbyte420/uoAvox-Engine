@@ -11,6 +11,8 @@
 - Mark Sturgill
 - Andre "ASayre" Sayre
 - Krrios
+- Zerodowned
+- Voxpire
 - ghostbyte420
 
 ```Collaborator(s)```
