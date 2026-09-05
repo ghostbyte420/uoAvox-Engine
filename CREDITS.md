@@ -14,7 +14,7 @@
 - ghostbyte420
 
 ```Collaborator(s)```
-- Brian Deragon (Assisted Our Team as A Developer and C# Tutor
+- Brian Deragon (Assisted Our Team as A Developer and C# Tutor)
 - The RunUO Community (Various Developers, Artists, Animators, and Musicians)
 - The ServUO Community (Various Developers, Artists, Animators, and Musicians)    
 
