@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)'=='Release'">
+    <DebugType>embedded</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)'=='Debug'">
+    <DebugType>embedded</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\External\FNA\FNA.Core.csproj" />
+    <ProjectReference Include="..\..\External\MP3Sharp\MP3Sharp\MP3Sharp.csproj" />
+    <ProjectReference Include="..\uoAvox.Utility\uoAvox.Utility.csproj" />
+  </ItemGroup>
+  
+</Project>

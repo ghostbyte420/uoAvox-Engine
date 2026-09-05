@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>MP3Sharp</AssemblyName>
+    <RootNamespace>MP3Sharp</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release'">
+    <DebugType>embedded</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug'">
+    <DebugType>embedded</DebugType>
+  </PropertyGroup>
+  
+</Project>

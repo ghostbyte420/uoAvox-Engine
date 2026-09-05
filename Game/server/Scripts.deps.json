@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Scripts/1.0.0": {
+        "dependencies": {
+          "Server": "1.0.0",
+          "System.Data.Odbc": "10.0.5"
+        },
+        "runtime": {
+          "Scripts.dll": {}
+        }
+      },
+      "System.Data.Odbc/10.0.5": {
+        "runtime": {
+          "lib/net10.0/System.Data.Odbc.dll": {
+            "assemblyVersion": "10.0.0.5",
+            "fileVersion": "10.0.526.15411"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/net10.0/System.Data.Odbc.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.5",
+            "fileVersion": "10.0.526.15411"
+          },
+          "runtimes/win/lib/net10.0/System.Data.Odbc.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.5",
+            "fileVersion": "10.0.526.15411"
+          }
+        }
+      },
+      "Server/1.0.0": {
+        "runtime": {
+          "Server.dll": {
+            "assemblyVersion": "1.3.3.7",
+            "fileVersion": "1.3.3.7"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Scripts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Data.Odbc/10.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nLtGLGJYf0jfVNH7004s5N3a6setHGhh/pRJTqq1U5bBx3TOaV9gDtZomi1IcacAoX9UwmVflXdViuw5UzEXAw==",
+      "path": "system.data.odbc/10.0.5",
+      "hashPath": "system.data.odbc.10.0.5.nupkg.sha512"
+    },
+    "Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

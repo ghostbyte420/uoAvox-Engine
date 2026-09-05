@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/Client/">
+    <Project Path="Client/Application/uoAvox.Assets/uoAvox.Assets.csproj" />
+    <Project Path="Client/Application/uoAvox.Client/uoAvox.Client.csproj" />
+    <Project Path="Client/Application/uoAvox.IO/uoAvox.IO.csproj" />
+    <Project Path="Client/Application/uoAvox.Renderer/uoAvox.Renderer.csproj" />
+    <Project Path="Client/Application/uoAvox.Utility/uoAvox.Utility.csproj" />
+  </Folder>
+  <Folder Name="/Client/External Projects/">
+    <Project Path="Client/External/FNA/FNA.Core.csproj" />
+    <Project Path="Client/External/MP3Sharp/MP3Sharp/MP3Sharp.csproj" />
+    <Project Path="Client/External/uoaapi/uoaapi.csproj" />
+  </Folder>
+  <Folder Name="/Server/">
+    <Project Path="Server/Scripts/Scripts.csproj" />
+    <Project Path="Server/Server/Server.csproj" />
+  </Folder>
+</Solution>

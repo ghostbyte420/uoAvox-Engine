@@ -1,0 +1,151 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "uoAvox/1.0.0": {
+        "dependencies": {
+          "FNA": "1.0.0",
+          "uoAvox.Assets": "1.0.0",
+          "uoAvox.Renderer": "1.0.0",
+          "uoAvox.Utility": "1.0.0",
+          "uoaapi": "1.0.0",
+          "FNA.Reference": "1.3.3.7"
+        },
+        "runtime": {
+          "uoAvox.dll": {}
+        }
+      },
+      "FNA/1.0.0": {
+        "runtime": {
+          "FNA.dll": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "MP3Sharp/1.0.0": {
+        "runtime": {
+          "MP3Sharp.dll": {
+            "assemblyVersion": "1.3.3.7",
+            "fileVersion": "1.3.3.7"
+          }
+        }
+      },
+      "uoaapi/1.0.0": {
+        "runtime": {
+          "uoaapi.dll": {
+            "assemblyVersion": "1.3.0.0",
+            "fileVersion": "1.3.0.0"
+          }
+        }
+      },
+      "uoAvox.Assets/1.0.0": {
+        "dependencies": {
+          "uoAvox.IO": "1.0.0",
+          "uoAvox.Utility": "1.0.0"
+        },
+        "runtime": {
+          "uoAvox.Assets.dll": {
+            "assemblyVersion": "1.3.3.7",
+            "fileVersion": "1.3.3.7"
+          }
+        }
+      },
+      "uoAvox.IO/1.0.0": {
+        "dependencies": {
+          "FNA": "1.0.0",
+          "MP3Sharp": "1.0.0",
+          "uoAvox.Utility": "1.0.0"
+        },
+        "runtime": {
+          "uoAvox.IO.dll": {
+            "assemblyVersion": "1.3.3.7",
+            "fileVersion": "1.3.3.7"
+          }
+        }
+      },
+      "uoAvox.Renderer/1.0.0": {
+        "dependencies": {
+          "FNA": "1.0.0",
+          "uoAvox.Assets": "1.0.0",
+          "uoAvox.Utility": "1.0.0"
+        },
+        "runtime": {
+          "uoAvox.Renderer.dll": {
+            "assemblyVersion": "1.3.3.7",
+            "fileVersion": "1.3.3.7"
+          }
+        }
+      },
+      "uoAvox.Utility/1.0.0": {
+        "dependencies": {
+          "FNA": "1.0.0"
+        },
+        "runtime": {
+          "uoAvox.Utility.dll": {
+            "assemblyVersion": "1.3.3.7",
+            "fileVersion": "1.3.3.7"
+          }
+        }
+      },
+      "FNA.Reference/1.3.3.7": {
+        "runtime": {
+          "FNA.dll": {
+            "assemblyVersion": "1.3.3.7",
+            "fileVersion": "1.3.3.7"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uoAvox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FNA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MP3Sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "uoaapi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "uoAvox.Assets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "uoAvox.IO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "uoAvox.Renderer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "uoAvox.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FNA.Reference/1.3.3.7": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
