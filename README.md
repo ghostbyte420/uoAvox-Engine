@@ -21,7 +21,7 @@ easier to navigate by users who may be new to this hobby.
 
 ### Some Requirements...
 
-> Windows 11: this project makes this operating system mandatory because it uses windows form applications which do not run on Linux. There
+> Windows OS: this project makes this operating system mandatory because it uses windows form applications which do not run on Linux. There
   is no way around this little debacle for now. 
 
 > Visual Studio 2026: there is a free version of this IDE which can be obtained [here](https://visualstudio.microsoft.com/vs/community/).
